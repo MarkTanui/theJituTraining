@@ -1,0 +1,20 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+main{
+    width: 650px;
+    text-align: center;
+    border: solid;
+    border-radius: 15px;
+    list-style: none;
+    
+}
+.info{
+    color: blue;
+    display: flex;
+    list-style: none;
+    gap: 10px;
+}
